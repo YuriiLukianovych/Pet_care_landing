@@ -106,3 +106,6 @@ dist
 package-lock.json
 gulp/version.json
 *.zip
+
+# own notes for project
+notes.txt
